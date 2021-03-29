@@ -1,6 +1,6 @@
 ->INIZIO
 === INIZIO ===
-Ti svegli in una selva, il mago che si trovava dinanzi a te è sparito, deve averti trasportato da qualche parte.Guardando le montagne noti uno strano bagliore bagliore.
+Ti svegli in una selva, il mago che si trovava dinanzi a te è sparito, deve averti trasportato da qualche parte.Guardando le montagne noti uno strano bagliore.
 
 + [Avvicinati agli alberi ed ispezionali]
 -> Radura
@@ -17,12 +17,12 @@ Ti ritrovi in una fitta selva, ci metti un attimo a realizzarlo ma ti trovi nuov
 
 
 = Radura
-{not Campi:{not spada: Gli alberi che inizialmente sono di un verde acceso classico del periodo estivo iniziano ad incecchiare al tuo avvicinarti, una volta che li raggiungi sono rinsecchite e vecchi, Oltre ad essi noti una radura con un piccolo lago avvicinandoti ti assale una sensazione di dejavu, sei gia stato qui, in questo momento noti una spada ai tuoi piedi.Al di la degli alberi che circondano la radura scorgi come una luce dorata, mentre alle tue spalle il bagliore sui monti si fa sempre piu flebile}{spada: La radura incontaminata risulta ancora una volta a te familiare, hai come l'impressione di essere gia stato qui, il limpido lago brilla per la luce di quella che non sai se definire luce lunare o solare, al di la degli alberi che circondano la radura scorgi come una luce dorata, mentre alle tue spalle il bagliore sui monti si fa sempre piu flebile.}}
+{not Campi:{not spada: Gli alberi che inizialmente sono di un verde acceso classico del periodo estivo iniziano ad incecchiare al tuo avvicinarti, una volta che li raggiungi sono rinsecchite e vecchi, Oltre ad essi noti una radura con un piccolo lago avvicinandoti ti assale una sensazione di déjà vu, sei gia stato qui, in questo momento noti una spada ai tuoi piedi.Al di la degli alberi che circondano la radura scorgi come una luce dorata, mentre alle tue spalle il bagliore sui monti si fa sempre piu flebile}{spada: La radura incontaminata risulta ancora una volta a te familiare, hai come l'impressione di essere gia stato qui, il limpido lago brilla per la luce di quella che non sai se definire luce lunare o solare, al di la degli alberi che circondano la radura scorgi come una luce dorata, mentre alle tue spalle il bagliore sui monti si fa sempre piu flebile.}}
 {Campi:Ti ritrovi nuovamente nella radura di prima, davanti a te i campi e dietro il bagliore}
 
 + [Raggiungi il bagliore sui monti]
 ->Bagliore
-+ [Dirigiti verso la luce d'orata]
++ [Dirigiti verso la luce dorata]
 -> Campi
 * [prendi la spada]
 -> spada 
@@ -38,7 +38,7 @@ Ti metti in viaggio e dopo quelle che sembrano ore di impervie vie e scalate imp
 -> Donna
 
 =Campi
-{not Girati: Mentre attraversi gli alberi per raggiungere l'altro lato della fitta boschaglia la dolce luce dorata si dipana mostrandosi come un mare di spighe di grano che si muovono al vendo, riconosci questo luogo sei sicuro si tratti della tua casa d'infanzia, dove vivesti i tuoi primi anni di vita.}Che si nasconde tra le spighe riconosci la tua vecchia casa e una macchia nera in lontananza. {not Girati:Ma una cosa ti confonde, non c'erano boschi dove sei cresciuto}
+{not Girati: Mentre attraversi gli alberi per raggiungere l'altro lato della fitta boschaglia la dolce luce dorata si dipana mostrandosi come un mare di spighe di grano che si muovono al vendo, riconosci questo luogo, sei sicuro si tratti della tua casa d'infanzia.} Che si nasconde tra le spighe riconosci la tua vecchia casa e una macchia nera in lontananza. {not Girati:Ma una cosa ti confonde, non c'erano boschi dove sei cresciuto}
 
 + [Vai verso casa] La casa è esattamente come te la ricordi, ad aprire la porta è tua madre "caro" ti dice con le lacrime agli occhi mentre ti invita ad entrare, vieni siediti.
 -> Casa
