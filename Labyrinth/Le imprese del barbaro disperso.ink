@@ -108,7 +108,8 @@ in un attimo tu ed il tuo riflesso vi invertite e l'uno diventa l'altro. Ti trov
 ++ [staccati] ti stacchi dal bacio per renderti conto di non essere piu con la donna e nemmeno nel lago argenteo se per questo, ti trovi all'intenro di una melma -> MORTE1
 
 =Mago
-Colpisci il mago con un colpo netto facendoigli saltare la testa, che vola in aria mentre zampilli di sangue si sprgono sulle pareti e sul pavimento. Da dietro di te una voce "complimenti questo mi ha sorpreso". ti giri ed il mago si trova li, ancora con la sua testa sulle spalle, lo attacchi e lo attacchi ancora, il pavimento è ormai cosparso dal liquido viscoso, con un ultimo fendente lo tagli a meta, cadi a terra in ginocchio, anisimante mentre l'ira si dipana e con essa i tuoi sensi tornano. Guardi il cadavere davanti a te, non si tratta del mago, è il tuo compagno di squadra, ti guardi attorno in orrore mentre la realizzi cos'è successo e le risate del mago svaniscono nell'aria.
+{spada: Colpisci il mago con un colpo netto facendoigli saltare la testa, che vola in aria mentre zampilli di sangue si sprgono sulle pareti e sul pavimento. Da dietro di te una voce "complimenti questo mi ha sorpreso". ti giri ed il mago si trova li, ancora con la sua testa sulle spalle, lo attacchi e lo attacchi ancora, il pavimento è ormai cosparso dal liquido viscoso, con un ultimo fendente lo tagli a meta, cadi a terra in ginocchio, anisimante mentre l'ira si dipana e con essa i tuoi sensi tornano. Guardi il cadavere davanti a te, non si tratta del mago, è il tuo compagno di squadra, ti guardi attorno in orrore mentre la realizzi cos'è successo e le risate del mago svaniscono nell'aria.}
+{not spada: il mago si gira verso di te e ride puntando il dito verso di te, una saetta verde parte dal suo dito, lasciando di te solo polvere}
 -> END
 
 =MELMA
@@ -129,8 +130,9 @@ Passano ore e non sai quando tu sia entrato o perchè sai solo che hai sonno... 
 =BOSS
 Fermi i tuoi compagni di party per chiedergli cosa stia succedendo, quando i 4 si mettono a ridere quando e girandosi si mergono in un unica creatura dalla forma indefinita che si staglia su di te.
 
-+ [Usa la spada per attaccare il mostro] Sguaini la spada che si illumina con una luce brillante che quasi ti acceca. Una volta che il bagliore passa vedi che hai colpito il mostro che brucia e sembra quasi urlare di dolore, gli dai quindi il colpo finale che lo fa esplodere in una pioggia argentea che scioglie la realtà attorno a te.
-->Al_di_la
+{spada:Sguaini la spada che si illumina con una luce brillante che quasi ti acceca. Una volta che il bagliore passa vedi che hai colpito il mostro che brucia e sembra quasi urlare di dolore, gli dai quindi il colpo finale che lo fa esplodere in una pioggia argentea che scioglie la realtà attorno a te. ->Al_di_la}
+{not spada:->MORTE1}
+
 
 =Al_di_la
 "Bene passi il tiro salvezza saggezza, sei di nuovo cosciente" ti dice il master "è il tuo turno, davanti a te si trova il mago, che ti guarda con aria sconvolta, cosa vuoi fare?
