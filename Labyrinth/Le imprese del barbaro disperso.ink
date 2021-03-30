@@ -80,7 +80,7 @@ Dinanzi a te si trova il Mago che ti ha fatto questo, che dall'alto del suo tron
 
 + [Avvicinati Cautamente alla fontana] Raggiungi la fontana e ti rendi conto di non essere piu nel castello.
 -> Fontana
-+ [Suguaina la spada e entra in ira] Accecato dalla rabbia corri verso il mago urlando a pieni polmoni
++ [Entra in ira] Accecato dalla rabbia corri verso il mago urlando a pieni polmoni
 -> Mago
 + [Raggiungi i tuoi compagni all'uscita] Lanciando un occhiataccia al mago, che ti sorride, raggiungi l'uscita dove i tuoi amici di aspettano
 -> Compagni
