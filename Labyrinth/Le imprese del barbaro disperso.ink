@@ -117,7 +117,7 @@ Nell'alzare la guardia illumini la creatura che arretra come spaventata dalla lu
 
 =MORTE1
 Piano piano tutto si fa scuro e i sensi si fanno sempre piu flebili, ad un certo punto non senti piu nulla, solo vuoto.
-->END
+->INIZIO
 
 =SI_RIPARTE
 Cammini con i tuoi compagni per qualche chilometro, quando raggiungete una foresta. Ad un certo punto li perdi di vista non hai la minima idea di dove siano finiti, finisci a girovagare nella foresta mentre i tuoi ricordi si fanno sempre piu nebulosi.
