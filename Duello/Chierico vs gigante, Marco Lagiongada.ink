@@ -33,6 +33,7 @@ Così ti alzi e corri a per di fiato per raggiungere la copertura che ti permett
 * [Corri verso il mago] Il cadavere del tuo amico è irriconoscibile, puoi solo sperare di aiutarlo una volta che tutto questo sarà finito.
 -> Mage
 * [Corri verso il ranger] Il povero elfo è stato praticamente tranciato in due dalla roccia, "non sarà così facile riportarlo indietro" ti dici a denti stretti.
+~ Bow = true
 -> Ranger
 
 
@@ -56,6 +57,7 @@ Ti convinci che potresti distrarre la creatura creando un rumore. Dovrai però a
 * [Corri verso il mago] Il cadavere del tuo amico è irriconoscibile, puoi solo sperare di aiutarlo una volta che tutto questo sarà finito.
 -> Mage
 * [Corri verso il ranger] Il povero elfo è stato praticamente tranciato in due dalla roccia, "non sarà così facile riportarlo indietro" ti dici a denti stretti.
+~ Bow = true
 -> Ranger
 
 = Mage
